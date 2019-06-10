@@ -1,0 +1,9 @@
+.vscode
+data
+*.pyc
+LPMC-Copy
+datasets
+*.iml
+.idea
+cmake-build-debug
+build
